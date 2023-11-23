@@ -51,22 +51,3 @@ public class task1 {
     }
 }
 
-//Output:
-/*A number is chosen between 1 to 100.Guess the number within 5 trials.
-Guess the number:
-55
-The number is less than 55
-Guess the number:
-23
-The number is less than 23
-Guess the number:
-11
-The number is greater than 11
-Guess the number:
-15
-The number is less than 15
-Guess the number:
-12
-You have exhausted K trials.
-The number was 13
-*/
